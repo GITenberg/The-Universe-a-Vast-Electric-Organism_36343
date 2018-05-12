@@ -1,0 +1,41 @@
+_repo: The-Universe-a-Vast-Electric-Organism_36343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warder, Geo. W. (George Woodward)
+    alias: Warder, George Woodward
+    birthdate: 1848
+    gutenberg_agent_id: '38218'
+    url: http://www.gutenberg.org/2009/agents/38218
+description: ''
+gutenberg_issued: '2011-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36343'
+  lccn: 04003383
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Miscellanea'
+- !lcc 'Q'
+tableOfContents: 'The universe is a vast electric organism -- Electricity produces
+  all the phenomena of nature -- Electrical creation, briefly stated. It seems to
+  solve the riddle of the universe -- Electrical creation more fully stated confirms
+  scientific evolution -- Man is a soul clad in air, a spirit in an electric organism
+  -- All light, heat and life evolved only in the atmosphere of suns and planets --
+  Electrical derangement of the bodily organism produce sickness and death -- Recent
+  electric discoveries and appliances, wireless telegraphy, etc. -- Present science
+  is in a dubious and chaotic condition -- Electrical creation explains natural philosophy
+  -- Science and philosophy sustain the religious concept -- Human reason and the
+  universe are books of God, as well as the Bible -- Love is the electric law of life:
+  all that live must come from loving -- Jacob''s ladder is the electric pathway between
+  suns and planets -- This electric universe is self-sustaining and eternal -- Are
+  all suns and worlds inhabited? -- The electrical theory of creation will save modern
+  science from pantheism.'
+title: The Universe a Vast Electric Organism
+url: http://www.gutenberg.org/ebooks/36343
